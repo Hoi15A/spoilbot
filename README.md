@@ -1,4 +1,4 @@
-# Spoilbot [![Bot Invite](https://img.shields.io/badge/invite-Spoilbot%236163-7289DA.svg?style=for-the-badge)](https://discordapp.com/oauth2/authorize?client_id=542376958181376030&scope=bot&permissions=11328) [![Travis Build](https://img.shields.io/travis/Hoi15A/spoilbot.svg?style=for-the-badge)](https://travis-ci.com/Hoi15A/spoilbot) [![Code Style](https://img.shields.io/badge/code--style-standard-brightgreen.svg?style=for-the-badge)](https://standardjs.com)
+# Spoilbot [![Bot Invite](https://img.shields.io/badge/invite-Spoilbot%236163-7289DA.svg?style=for-the-badge)](https://discordapp.com/oauth2/authorize?client_id=542376958181376030&scope=bot&permissions=11328) [![Travis Build](https://img.shields.io/travis/com/Hoi15A/spoilbot.svg?style=for-the-badge)](https://travis-ci.com/Hoi15A/spoilbot) [![Code Style](https://img.shields.io/badge/code--style-standard-brightgreen.svg?style=for-the-badge)](https://standardjs.com)
 
 A Discord bot that can reveal multiple spoliers quickly for you.
 
