@@ -1,0 +1,23 @@
+{
+  "name": "spoilbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/standard/bin/cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hoi15A/spoilbot.git"
+  },
+  "author": "Austin Albrecht",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
